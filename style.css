@@ -1,0 +1,13 @@
+body {
+
+  background: linear-gradient(lightblue, lavender) ;
+  margin: 10% 30%;
+  text-indent: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+.body1{
+  border-top: 2px dashed;
+  
+}
