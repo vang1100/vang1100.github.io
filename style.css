@@ -24,20 +24,6 @@ h1{
   
 }
 
-header {
-  font: 45px century gothic;
-  font-weight: 550;
-  background-color: white;
-  border-radius: 18px;
-  border: 1px dashed;
-  margin: auto;
-  width: 900px;
-  text-align: center;
-  text-transform: uppercase;
-  box-shadow: 5px 5px 5px lavender;
-   
-}
-
 img{
   margin-top: 20px;
   width: 215px;
@@ -51,7 +37,6 @@ aside{
   
   float: right; 
   margin-right: 510px;
-  margin-top: 15px;
   padding-bottom: 30px;
   padding-right: 15px;
   background-color: white;
@@ -67,22 +52,11 @@ aside{
   padding-bottom: 5px;
   border-radius: 18px;
   border: 1px dashed;
-  margin-top: 15px;
   margin-bottom: 15px;
   margin-right:825px;
-  margin-left: 500px;
   box-shadow: 5px 5px 5px lavender;
 
 }
 
-footer{
-  font: 12px century gothic; 
-  background-color: white;
-  border-radius: 12px;
-  border: 1px dashed;
-  margin: auto;
-  width: 900px; 
-  box-shadow: 5px 5px 5px lavender;
-  
-}
+
 
