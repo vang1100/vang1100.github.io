@@ -1,3 +1,14 @@
+
+body {
+  background: linear-gradient(lightblue, lavender) ;
+  text-indent: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-family: "Century Gothic",Verdana,sans-serif;
+  font-size: 12px;
+
+}
+
 h4{
   color: cadetblue   
 }
@@ -19,16 +30,6 @@ header {
   text-transform: uppercase;
   box-shadow: 5px 5px 5px lavender;
    
-}
-
-body {
-  background: linear-gradient(lightblue, lavender) ;
-  text-indent: 30px;
-  text-align: justify;
-  letter-spacing: 1px;
-  font-family: "Century Gothic",Verdana,sans-serif;
-  font-size: 12px;
-
 }
 
 img{
